@@ -1,0 +1,18 @@
+.idea
+node_modules
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Nuxt build output and caches
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Logs
+logs
+*.log
